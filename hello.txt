@@ -1,6 +1,6 @@
-Linea 1: android/Google
+Linea 1: Android/Google
 New Line
-Linea 2: ios/Apple
+Linea 2: Ios/Apple
 New Line
-Linea 3: widows phone/Mocrosoft
+Linea 3: Widows Phone/Mocrosoft
 New Line
