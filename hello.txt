@@ -1,3 +1,6 @@
 Linea 1: android/Google
+New Line
 Linea 2: ios/Apple
+New Line
 Linea 3: widows phone/Mocrosoft
+New Line
