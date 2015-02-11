@@ -1,3 +1,3 @@
-Linea 1: android
-Linea 2: ios
-Linea 3: widows phone
+Linea 1: Android
+Linea 2: Ios
+Linea 3: Widows Phone
