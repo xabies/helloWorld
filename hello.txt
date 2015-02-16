@@ -4,4 +4,4 @@ Linea 2: Ios/Apple
 New Line
 Linea 3: Widows Phone/Mocrosoft
 New Line
-Commit 1 master
+Commit 2 master
